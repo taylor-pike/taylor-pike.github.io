@@ -11,13 +11,13 @@ I am a senior Englsih major from Bentonville, Arkansas.
 
 My favorite movie is The Sixth Sense.
 
-My favorite music is Indie, especially by Phoebe Bridgers.
+My favorite type of music is Indie, especially by Phoebe Bridgers.
 
 I love breakfast tacos.
 
 I am on the Women's Swimming and Diving team for A&M.
 
-I have a travel blog [here] (http://tayloruntamed.com/).
+[You can find my travel blog here.] (http://tayloruntamed.com/)
 
 
 I am taking this class because my interest in blogging.
