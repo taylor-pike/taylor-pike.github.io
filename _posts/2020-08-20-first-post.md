@@ -17,7 +17,7 @@ I love breakfast tacos.
 
 I am on the Women's Swimming and Diving team for A&M.
 
-[You can find my travel blog here.] (http://tayloruntamed.com/)
+[You can find my travel blog here.](http://tayloruntamed.com/)
 
 
 I am taking this class because my interest in blogging.
