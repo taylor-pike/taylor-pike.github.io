@@ -20,7 +20,7 @@ I am on the Women's Swimming and Diving team for A&M.
 [You can find my travel blog here.](http://tayloruntamed.com/)
 
 
-I am taking this class because my interest in blogging.
+I am taking this class because of my interest in blogging.
 
 Although I have started my own blog, I would like to improve my skills and learn more about how to make my blog/site successful.
 
