@@ -2,7 +2,7 @@ This week in the reading “What is Data?” we learned about different data str
 
 The example given in the text for a dictionary was an Aggie ID card, with four keys: name, title, UIN, and photo. A list of items of this dictionary could include a stack of Aggie ID cards of different students (or simply finding a digital file filled with all of this information).
 
-To find a real world example of this idea, I found a “Full List of What’s on Netflix” on [https://reelgood.com/source/netflix] (https://reelgood.com/source/netflix). On this website, you will find a long list running down the page and continuing on further pages of all the shows, movies and other content currently available to watch on the Netflix platform.
+To find a real world example of this idea, I found a “Full List of What’s on Netflix” on [https://reelgood.com/source/netflix](https://reelgood.com/source/netflix). On this website, you will find a long list running down the page and continuing on further pages of all the shows, movies and other content currently available to watch on the Netflix platform.
 
 When you first reach the website, you will see each show or movie, currently ordered by its Reelgood ranking, with each key in its dictionary in a horizontal line. The keys we see are title (text scalar), year (number scalar), rating (text scalar), IMDb score (number scalar), Reelgood score (number scalar) and where it is currently available (text scalar).
 
