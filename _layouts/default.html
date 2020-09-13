@@ -14,14 +14,7 @@
       <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
       {% endif %}
       
-        <nav>
-          <li><a href="/">Home</a></li>
-          <li>About
-            <ul>
-              <li><a href="/about/index.html">About Me</a></li>
-            </ul>
-          </li>
-        </nav>
+         {% include "navigation.html" %}
 
       {{ content }}
 
