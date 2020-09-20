@@ -1,7 +1,7 @@
 ---
 title: Week 3 Reflection
 author:
-	name: "Taylor Pike"
+	name: Taylor Pike
 	url: "https://taylor-pike.github.io/2020/08/31/week3-reflection.html"
 categories:
 - reflections
