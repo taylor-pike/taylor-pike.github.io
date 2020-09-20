@@ -1,3 +1,12 @@
+---
+title: Week 3 Reflection
+author:
+	name: "Taylor Pike"
+	url: "https://taylor-pike.github.io/2020/08/31/week3-reflection.html"
+categories:
+- reflections
+---
+
 This week in the reading “What is Data?” we learned about different data structures commonly used in blogs. Specifically for blogs, this typically includes lots of text scalars (blocks of text, titles, subtitles, etc.). But it can also include other lists and dictionaries (for visualizations, pictures, and more).
 
 The example given in the text for a dictionary was an Aggie ID card, with four keys: name, title, UIN, and photo. A list of items of this dictionary could include a stack of Aggie ID cards of different students (or simply finding a digital file filled with all of this information).
