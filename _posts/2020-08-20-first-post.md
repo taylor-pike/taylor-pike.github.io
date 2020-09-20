@@ -2,7 +2,7 @@
 title: First Post
 author:
 	name: Taylor Pike
-	url: https://taylor-pike.github.io/2020/08/20/first-post.html
+	url: "https://taylor-pike.github.io/2020/08/20/first-post.html"
 categories:
 - intro
 ---
