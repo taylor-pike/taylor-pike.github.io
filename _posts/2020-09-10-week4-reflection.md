@@ -1,6 +1,10 @@
 ---
-layout: post
 title: Week 4 Reflection
+author:
+	name: Taylor Pike
+	url: "https://taylor-pike.github.io/2020/09/10/week4-reflection.html"
+categories:
+- reflections
 ---
 
 *Week 4 Reflection*
