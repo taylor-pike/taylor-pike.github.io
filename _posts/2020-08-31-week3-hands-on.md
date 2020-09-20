@@ -1,6 +1,10 @@
 ---
-title: Blog Post
-layout: post
+title: Week 3 Hands-on
+author:
+	name: Taylor Pike
+	url: https://taylor-pike.github.io/2020/08/31/week3-reflection.html
+categories:
+- hands on
 ---
 
 For the Card Picker, I think a list of dictionaries is used.
