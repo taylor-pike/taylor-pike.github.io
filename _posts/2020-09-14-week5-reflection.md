@@ -5,7 +5,6 @@ author:
   url: "https://taylor-pike.github.io/2020/09/14/week5-reflection.html"
 categories:
 - reflections
-- intro
 ---
 
 This week while reading and learning about the details of writing in both Markdown and HTML, I found a video on youtube.com that was very similar to our own reading for the week: [What is HTML? HyperText Markup Language Explained](https://www.youtube.com/watch?v=G2UPvD7Syas).
