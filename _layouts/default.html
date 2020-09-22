@@ -16,8 +16,13 @@
       
          {% include navigation.html %}
       
-      <p><strong>Posted In</strong>: </p>
-
+      {% if post %}
+        {% assign categories = post.categories %}
+      {% else %}
+        {% assign categories = page.categories %}
+      {% endif %}
+      <p><strong>Posted In</strong>: {{categories | capitalize | join: ', '}}</p>
+      
       {{ content }}
 
       {% if site.github.private != true and site.github.license %}
