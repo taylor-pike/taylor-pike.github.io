@@ -4,22 +4,13 @@ layout: default
 <h1>Posts by Categories</h1>
 
 <ul>
-  
-  <li>intro</li>
-  <ul>
-    <li><a href="/_posts/2020-08-20-first-post.md">Introduction Post</a></li>
-  </ul>
-  
-  <li>hands on</li>
-  <ul>
-    <li><a href="/_posts/2020-08-31-week3-hands-on.md">Week 3 Hands-on</a></li>
-  </ul>
-  
-  <li>reflections</li>
-  <ul>
-    <li><a href="/_posts/2020-08-31-week3-reflection.md">Week 3 Reflection</a></li>
-    <li><a href="/_posts/2020-09-10-week4-reflection.md">Week 4 Reflection</a></li>
-    <li><a href="/_posts/2020-09-14-week5-reflection.md">Week 5 Reflection</a></li>
-  </ul>
-  
+  {% for category in site.categories %}
+  {% capture category_name %}{{ category | first }}{% endcapture %}
+  <li>{{ category_name | capitalize }}
+    <ul>{% for post in site.categories[category_name] %}
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
+      {% endfor %}
+    </ul>
+  </li>
+  {% endfor %}
 </ul>
