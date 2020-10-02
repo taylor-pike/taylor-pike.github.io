@@ -1,3 +1,12 @@
+---
+title: Week 7 Reflection
+author:
+  name: Taylor Pike
+  url: "https://taylor-pike.github.io/2020-10-01-week7-reflection.html"
+categories:
+- reflections
+---
+
 This week, our assigned reading focused on the use of style in our blogs and how to implement it within each file (to our text and general layout). Rather than HTML, a programming language called CSS (Cascading Style Sheets) is used to edit the style of elements within a file.
 
 While learning about the different commands available for use in the CSS language to edit our own blogs, I was reminded of a similar process, even though it’s kind of cheesy. Editing each individual element on a page, from clear differences to the smallest of details, reminds me of designing a new avatar on a game or application.
