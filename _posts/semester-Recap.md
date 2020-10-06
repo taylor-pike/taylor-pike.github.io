@@ -1,3 +1,12 @@
+---
+title: Taylor's Semesterly Blog Recap
+author:
+  name: Taylor Pike
+  url: "https://taylor-pike.github.io/semester-Recap.md"
+categories:
+- reflections
+---
+
 This week in our ENGL 460 course, my classmates and I were introduced to CSS or Cascading Style Sheets. This is a programming language that supplements HTML, allowing us to style our websites any way we’d like.
 
 For me, and what seems like a majority of the class, the article explaining the basics of CSS was understandable. Starting with rules with elements (selectors and declaration blocks) and then hitting on the specific actions one can take in CSS (changing text and layout with tags, classes and IDs), the article was thorough and useful in understanding the possibilities available to us using this programming languages on our own sites. 
