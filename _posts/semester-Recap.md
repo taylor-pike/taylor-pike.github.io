@@ -2,7 +2,7 @@
 title: Taylor's Semesterly Blog Recap
 author:
   name: Taylor Pike
-  url: "https://taylor-pike.github.io/semester-Recap.md"
+  url: "https://taylor-pike.github.io/_posts/semester-Recap.html"
 categories:
 - reflections
 ---
